@@ -3,7 +3,7 @@ package BitwiseOperators;
 public class EvenNumber {
     public static void main(String[] args) 
     {
-        int n = 48;
+        int n = 2;
         System.out.println((iseven(n)));
     }
     static boolean iseven(int n)

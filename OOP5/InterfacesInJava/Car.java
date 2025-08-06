@@ -2,6 +2,8 @@ package OOP5.InterfacesInJava;
 
 public class Car implements Engine,Brake,Music{
 
+    
+
     @Override
     public void brake() {
         System.out.println("I break like a normal car");
